@@ -1,33 +1,33 @@
 {"nodes": [
     {
         "class": "车内安全技术",
-        "group": "1",
-        "id": "车内安全通信",
-        "size": "20"
-    },
-    {
-        "class": "车内安全通信",
-        "group": "2",
+        "group": "0",
         "id": "车内安全通信",
         "size": "16"
     },
     {
+        "class": "车内安全通信",
+        "group": "1",
+        "id": "车内安全通信",
+        "size": "10"
+    },
+    {
         "class": "安全技术",
-        "group": "3",
+        "group": "2",
         "id": "TLS",
-        "size": "10"
+        "size": "8"
     },
     {
         "class": "安全技术",
-        "group": "3",
+        "group": "2",
         "id": "VLAN",
-        "size": "10"
+        "size": "8"
     },
     {
         "class": "安全技术",
-        "group": "3",
+        "group": "2",
         "id": "SecOC",
-        "size": "10"
+        "size": "8"
     },
     {
         "class": "安全技术",
@@ -37,9 +37,9 @@
     },
     {
         "class": "安全技术",
-        "group": "3",
+        "group": "2",
         "id": "MACsec",
-        "size": "10"
+        "size": "8"
     }
 ],
 
