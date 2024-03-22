@@ -1,494 +1,552 @@
-{"nodes": [
-    {
-        "class": "车内安全技术",
-        "group": "0",
-        "id": "车内安全技术",
-        "size": 16
-    },
-    {
-        "class": "车内安全通信",
-        "group": "1",
-        "id": "车内安全通信",
-        "size": 10
-    },
-    {
-        "class": "硬件安全",
-        "group": "1",
-        "id": "硬件安全",
-        "size": 10
-    },
-    {
-        "class": "软件安全",
-        "group": "1",
-        "id": "软件安全",
-        "size": 10
-    },
-    {
-        "class": "卫星安全",
-        "group": "3",
-        "id": "卫星安全",
-        "size": 5
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "TLS",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "VLAN",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "SecOC",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "IPsec",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "MACsec",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "基于可信根的可信计算",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "芯片物理防护之防侧信道",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "芯片物理防护之防故障注入",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "芯片物理防护之防物理攻击",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "硬件器件/模块安全防护",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "单板级安全",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "PCB安全之JTAG安全",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "PCB安全之测试接口安全",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "PCB安全之存储接口安全",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "外壳安全",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "操作系统之隔离技术",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "操作系统之访问控制",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "操作系统之安全运行",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "操作系统之安全存储",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "国密算法之SM2",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "国密算法之SM3",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "国密算法之SM4",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "国密算法之SM9",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "国密算法之ZUC",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "国际算法之ECC",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "国际算法之RSA",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "国际算法之DES",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "国际算法之SHA1",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "国际算法之SHA256",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "国际算法之SHA384",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "国际算法之SHA512",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "前沿密码之同态密码",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "前沿密码之多方计算",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "前沿密码之零知识证明",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "前沿密码之后量子密码学",
-        "size": 8
-    },
-    {
-        "class": "安全技术",
-        "group": "2",
-        "id": "应用安全",
-        "size": 8
-    }
-
-],
-
-"links": [
-    {
-        "relation": "是TLS安全的一部分",
-        "source": "TLS",
-        "target": "卫星安全",
-        "value": 3
-    },
-    {
-        "relation": "是车内安全的一部分",
-        "source": "车内安全技术",
-        "target": "车内安全通信",
-        "value": 3
-    },
-    {
-        "relation": "是车内安全的一部分",
-        "source": "车内安全技术",
-        "target": "硬件安全",
-        "value": 3
-    },
-    {
-        "relation": "是车内安全的一部分",
-        "source": "车内安全技术",
-        "target": "软件安全",
-        "value": 3
-    },
-    {
-        "relation": "是车内安全通信的一部分",
-        "source": "车内安全通信",
-        "target": "TLS",
-        "value": 3
-    },
-    {
-        "relation": "是车内安全通信的一部分",
-        "source": "车内安全通信",
-        "target": "VLAN",
-        "value": 3
-    },
-    {
-        "relation": "是车内安全通信的一部分",
-        "source": "车内安全通信",
-        "target": "SecOC",
-        "value": 3
-    },
-    {
-        "relation": "是车内安全通信的一部分",
-        "source": "车内安全通信",
-        "target": "IPsec",
-        "value": 3
-    },
-    {
-        "relation": "是车内安全通信的一部分",
-        "source": "车内安全通信",
-        "target": "MACsec",
-        "value": 3
-    },
-    {
-        "relation": "是硬件安全的一部分",
-        "source": "硬件安全",
-        "target": "基于可信根的可信计算",
-        "value": 3
-    },
-    {
-        "relation": "是硬件安全的一部分",
-        "source": "硬件安全",
-        "target": "芯片物理防护之防侧信道",
-        "value": 3
-    },
-    {
-        "relation": "是硬件安全的一部分",
-        "source": "硬件安全",
-        "target": "芯片物理防护之防故障注入",
-        "value": 3
-    },
-    {
-        "relation": "是硬件安全的一部分",
-        "source": "硬件安全",
-        "target": "芯片物理防护之防物理攻击",
-        "value": 3
-    },
-    {
-        "relation": "是硬件安全的一部分",
-        "source": "硬件安全",
-        "target": "硬件器件/模块安全防护",
-        "value": 3
-    },
-    {
-        "relation": "是硬件安全的一部分",
-        "source": "硬件安全",
-        "target": "PCB安全之JTAG安全",
-        "value": 3
-    },
-    {
-        "relation": "是硬件安全的一部分",
-        "source": "硬件安全",
-        "target": "PCB安全之测试接口安全",
-        "value": 3
-    },
-    {
-        "relation": "是硬件安全的一部分",
-        "source": "硬件安全",
-        "target": "PCB安全之存储接口安全",
-        "value": 3
-    },
-    {
-        "relation": "是硬件安全的一部分",
-        "source": "硬件安全",
-        "target": "外壳安全",
-        "value": 3
-    },
-    {
-        "relation": "是硬件安全的一部分",
-        "source": "硬件安全",
-        "target": "单板级安全",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "操作系统之隔离技术",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "操作系统之访问控制",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "操作系统之安全运行",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "操作系统之安全存储",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "国密算法之SM2",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "国密算法之SM3",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "国密算法之SM4",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "国密算法之SM9",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "国密算法之ZUC",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "国际算法之ECC",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "国际算法之RSA",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "国际算法之DES",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "国际算法之SHA1",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "国际算法之SHA256",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "国际算法之SHA384",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "国际算法之SHA512",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "前沿密码之同态密码",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "前沿密码之多方计算",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "前沿密码之零知识证明",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "前沿密码之后量子密码学",
-        "value": 3
-    },
-    {
-        "relation": "是软件安全的一部分",
-        "source": "软件安全",
-        "target": "应用安全",
-        "value": 3
-    }
-
-]
+{
+    "nodes": [
+        {
+            "class": "车内安全技术",
+            "group": "0",
+            "id": "车内安全技术",
+            "size": 16
+        },
+        {
+            "class": "车内安全通信",
+            "group": "1",
+            "id": "车内安全通信",
+            "size": 10
+        },
+        {
+            "class": "硬件安全",
+            "group": "1",
+            "id": "硬件安全",
+            "size": 10
+        },
+        {
+            "class": "软件安全",
+            "group": "1",
+            "id": "软件安全",
+            "size": 10
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "TLS",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "VLAN",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "SecOC",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "IPsec",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "MACsec",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "基于可信根的可信计算",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "芯片物理安全基础",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "芯片物理防护之防侧信道",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "芯片物理防护之防故障注入",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "芯片物理防护之防物理攻击",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "硬件器件/模块安全防护",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "单板级安全",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "PCB安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "PCB安全之JTAG安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "PCB安全之测试接口安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "PCB安全之存储接口安全",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "外壳安全",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "操作系统",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "操作系统之隔离技术",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "操作系统之访问控制",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "操作系统之安全运行",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "操作系统之安全存储",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "国密算法",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "国密算法之SM2",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "国密算法之SM3",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "国密算法之SM4",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "国密算法之SM9",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "国密算法之ZUC",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "国际算法",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "国际算法之ECC",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "国际算法之RSA",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "国际算法之DES",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "国际算法之SHA1",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "国际算法之SHA256",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "国际算法之SHA384",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "国际算法之SHA512",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "前沿密码",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "前沿密码之同态密码",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "前沿密码之多方计算",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "前沿密码之零知识证明",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "前沿密码之后量子密码学",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "应用安全",
+            "size": 8
+        }
+    ],
+    "links": [
+        {
+            "relation": "是车内安全的一部分",
+            "source": "车内安全技术",
+            "target": "车内安全通信",
+            "value": 3
+        },
+        {
+            "relation": "是车内安全的一部分",
+            "source": "车内安全技术",
+            "target": "硬件安全",
+            "value": 3
+        },
+        {
+            "relation": "是车内安全的一部分",
+            "source": "车内安全技术",
+            "target": "软件安全",
+            "value": 3
+        },
+        {
+            "relation": "是车内安全通信的一部分",
+            "source": "车内安全通信",
+            "target": "TLS",
+            "value": 3
+        },
+        {
+            "relation": "是车内安全通信的一部分",
+            "source": "车内安全通信",
+            "target": "VLAN",
+            "value": 3
+        },
+        {
+            "relation": "是车内安全通信的一部分",
+            "source": "车内安全通信",
+            "target": "SecOC",
+            "value": 3
+        },
+        {
+            "relation": "是车内安全通信的一部分",
+            "source": "车内安全通信",
+            "target": "IPsec",
+            "value": 3
+        },
+        {
+            "relation": "是车内安全通信的一部分",
+            "source": "车内安全通信",
+            "target": "MACsec",
+            "value": 3
+        },
+        {
+            "relation": "是硬件安全的一部分",
+            "source": "硬件安全",
+            "target": "基于可信根的可信计算",
+            "value": 3
+        },
+        {
+            "relation": "是硬件安全的一部分",
+            "source": "硬件安全",
+            "target": "芯片物理安全基础",
+            "value": 3
+        },
+        {
+            "relation": "是芯片物理安全的一部分",
+            "source": "芯片物理安全基础",
+            "target": "芯片物理防护之防侧信道",
+            "value": 3
+        },
+        {
+            "relation": "是芯片物理安全的一部分",
+            "source": "芯片物理安全基础",
+            "target": "芯片物理防护之防故障注入",
+            "value": 3
+        },
+        {
+            "relation": "是芯片物理安全的一部分",
+            "source": "芯片物理安全基础",
+            "target": "芯片物理防护之防物理攻击",
+            "value": 3
+        },
+        {
+            "relation": "是硬件安全的一部分",
+            "source": "硬件安全",
+            "target": "硬件器件/模块安全防护",
+            "value": 3
+        },
+        {
+            "relation": "是硬件安全的一部分",
+            "source": "硬件安全",
+            "target": "PCB安全",
+            "value": 3
+        },
+        {
+            "relation": "是PCB安全的一部分",
+            "source": "PCB安全",
+            "target": "PCB安全之JTAG安全",
+            "value": 3
+        },
+        {
+            "relation": "是PCB安全的一部分",
+            "source": "PCB安全",
+            "target": "PCB安全之测试接口安全",
+            "value": 3
+        },
+        {
+            "relation": "是PCB安全的一部分",
+            "source": "PCB安全",
+            "target": "PCB安全之存储接口安全",
+            "value": 3
+        },
+        {
+            "relation": "是硬件安全的一部分",
+            "source": "硬件安全",
+            "target": "外壳安全",
+            "value": 3
+        },
+        {
+            "relation": "是硬件安全的一部分",
+            "source": "硬件安全",
+            "target": "单板级安全",
+            "value": 3
+        },
+        {
+            "relation": "是软件安全的一部分",
+            "source": "软件安全",
+            "target": "操作系统",
+            "value": 3
+        },
+        {
+            "relation": "是操作系统安全的一部分",
+            "source": "操作系统",
+            "target": "操作系统之隔离技术",
+            "value": 3
+        },
+        {
+            "relation": "是操作系统安全的一部分",
+            "source": "操作系统",
+            "target": "操作系统之访问控制",
+            "value": 3
+        },
+        {
+            "relation": "是操作系统安全的一部分",
+            "source": "操作系统",
+            "target": "操作系统之安全运行",
+            "value": 3
+        },
+        {
+            "relation": "是操作系统安全的一部分",
+            "source": "操作系统",
+            "target": "操作系统之安全存储",
+            "value": 3
+        },
+        {
+            "relation": "是软件安全的一部分",
+            "source": "软件安全",
+            "target": "国密算法",
+            "value": 3
+        },
+        {
+            "relation": "是国密算法的一种",
+            "source": "国密算法",
+            "target": "国密算法之SM2",
+            "value": 3
+        },
+        {
+            "relation": "是国密算法的一种",
+            "source": "国密算法",
+            "target": "国密算法之SM3",
+            "value": 3
+        },
+        {
+            "relation": "是国密算法的一种",
+            "source": "国密算法",
+            "target": "国密算法之SM4",
+            "value": 3
+        },
+        {
+            "relation": "是国密算法的一种",
+            "source": "国密算法",
+            "target": "国密算法之SM9",
+            "value": 3
+        },
+        {
+            "relation": "是国密算法的一种",
+            "source": "国密算法",
+            "target": "国密算法之ZUC",
+            "value": 3
+        },
+        {
+            "relation": "是国际算法的一种",
+            "source": "软件安全",
+            "target": "国际算法",
+            "value": 3
+        },
+        {
+            "relation": "是国际算法的一种",
+            "source": "国际算法",
+            "target": "国际算法之ECC",
+            "value": 3
+        },
+        {
+            "relation": "是国际算法的一种",
+            "source": "国际算法",
+            "target": "国际算法之RSA",
+            "value": 3
+        },
+        {
+            "relation": "是国际算法的一种",
+            "source": "国际算法",
+            "target": "国际算法之DES",
+            "value": 3
+        },
+        {
+            "relation": "是国际算法的一种",
+            "source": "国际算法",
+            "target": "国际算法之SHA1",
+            "value": 3
+        },
+        {
+            "relation": "是国际算法的一种",
+            "source": "国际算法",
+            "target": "国际算法之SHA256",
+            "value": 3
+        },
+        {
+            "relation": "是国际算法的一种",
+            "source": "国际算法",
+            "target": "国际算法之SHA384",
+            "value": 3
+        },
+        {
+            "relation": "是国际算法的一种",
+            "source": "国际算法",
+            "target": "国际算法之SHA512",
+            "value": 3
+        },
+        {
+            "relation": "是软件安全的一部分",
+            "source": "软件安全",
+            "target": "前沿密码",
+            "value": 3
+        },
+        {
+            "relation": "是前沿密码的一种",
+            "source": "前沿密码",
+            "target": "前沿密码之同态密码",
+            "value": 3
+        },
+        {
+            "relation": "是前沿密码的一种",
+            "source": "前沿密码",
+            "target": "前沿密码之多方计算",
+            "value": 3
+        },
+        {
+            "relation": "是前沿密码的一种",
+            "source": "前沿密码",
+            "target": "前沿密码之零知识证明",
+            "value": 3
+        },
+        {
+            "relation": "是前沿密码的一种",
+            "source": "前沿密码",
+            "target": "前沿密码之后量子密码学",
+            "value": 3
+        },
+        {
+            "relation": "是软件安全的一部分",
+            "source": "软件安全",
+            "target": "应用安全",
+            "value": 3
+        }
+    ]
 }
