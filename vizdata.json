@@ -1275,6 +1275,12 @@
             "value": 3
         },
         {
+            "relation": "是隐私管理的一部分",
+            "source": "隐私管理",
+            "target": "用户同意管理",
+            "value": 3
+        },
+        {
             "relation": "包含",
             "source": "数据安全与隐私保护",
             "target": "隐私保护技术",
