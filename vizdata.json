@@ -7,6 +7,18 @@
             "size": 16
         },
         {
+            "class": "车外安全技术",
+            "group": "0",
+            "id": "车外安全技术",
+            "size": 16
+        },
+        {
+            "class": "数据安全与隐私保护",
+            "group": "0",
+            "id": "数据安全与隐私保护",
+            "size": 16
+        },
+        {
             "class": "车内安全通信",
             "group": "1",
             "id": "车内安全通信",
@@ -22,6 +34,54 @@
             "class": "软件安全",
             "group": "1",
             "id": "软件安全",
+            "size": 10
+        },
+        {
+            "class": "卫星通信安全",
+            "group": "1",
+            "id": "卫星通信安全",
+            "size": 10
+        },
+        {
+            "class": "近端通信安全",
+            "group": "1",
+            "id": "近端通信安全",
+            "size": 10
+        },
+        {
+            "class": "车云安全",
+            "group": "1",
+            "id": "车云安全",
+            "size": 10
+        },
+        {
+            "class": "V2X安全",
+            "group": "1",
+            "id": "V2X安全",
+            "size": 10
+        },
+        {
+            "class": "隐私管理",
+            "group": "1",
+            "id": "隐私管理",
+            "size": 10
+        },
+        {
+            "class": "隐私保护技术",
+            "group": "1",
+            "id": "隐私保护技术",
+            "size": 10
+        },
+        {
+            "class": "数据安全技术措施",
+            "group": "1",
+            "id": "数据安全技术措施",
+            "size": 10
+        },
+        {
+            "class": "数据生命周期管理",
+            "group": "1",
+            "id": "数据生命周期管理",
             "size": 10
         },
         {
@@ -275,6 +335,312 @@
             "group": "2",
             "id": "应用安全",
             "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "卫星通信安全之防干扰",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "卫星通信安全之防欺骗",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "近端无线通信安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "WIFI",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "Bluetooth",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "ZigBee",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "RFID",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "PKE/RKE",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "NFC",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "TPMS",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "物理接触设备安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "USB",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "OBD",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "媒体播放器",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "无线空口安全",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "云安全",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "云基础设施安全",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "云安全服务",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "蜂窝通信接口",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "网络接入安全",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "车联业务接入安全",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "网络域安全",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "认证及密钥管理",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "直连通信接口",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "网络层安全",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "外部网络域安全",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "安全能力支撑",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "应用安全",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "业务应用层",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "基于云平台的LTE-V2X车联网应用",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "直连通信场景下应用层的安全机制之PKI机制",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "采用密码学等技术保障V2X通信安全",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "物理层",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "3",
+            "id": "终端和路侧设备安全机制之接口层面安全机制",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "3",
+            "id": "终端和路侧设备安全机制之设备层面安全机制系统隔离机制",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "隐私声明保护",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "用户同意管理",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "隐私风险评估",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "数据保护影响评估",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "数据分类分级",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "访问控制",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "数据脱敏",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "残余信息保护",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "数据备份与恢复管理",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "安全审计",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据采集",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据传输",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据处理",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据存储",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据共享/交换/开放",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据擦除、销毁",
+            "size": 5
         }
     ],
     "links": [
@@ -546,6 +912,450 @@
             "relation": "是软件安全的一部分",
             "source": "软件安全",
             "target": "应用安全",
+            "value": 3
+        },
+        {
+            "relation": "是车外安全的一部分",
+            "source": "车外安全技术",
+            "target": "卫星通信安全",
+            "value": 3
+        },
+        {
+            "relation": "是卫星通信安全的一部分",
+            "source": "卫星通信安全",
+            "target": "卫星通信安全之防干扰",
+            "value": 3
+        },
+        {
+            "relation": "是卫星通信安全的一部分",
+            "source": "卫星通信安全",
+            "target": "卫星通信安全之防欺骗",
+            "value": 3
+        },
+        {
+            "relation": "是车外安全的一部分",
+            "source": "车外安全技术",
+            "target": "近端通信安全",
+            "value": 3
+        },
+        {
+            "relation": "是近端通信安全的一部分",
+            "source": "近端通信安全",
+            "target": "近端无线通信安全",
+            "value": 3
+        },
+        {
+            "relation": "是近端无线通信安全的一部分",
+            "source": "近端无线通信安全",
+            "target": "WIFI",
+            "value": 3
+        },
+        {
+            "relation": "是近端无线通信安全的一部分",
+            "source": "近端无线通信安全",
+            "target": "Bluetooth",
+            "value": 3
+        },
+        {
+            "relation": "是近端无线通信安全的一部分",
+            "source": "近端无线通信安全",
+            "target": "ZigBee",
+            "value": 3
+        },
+        {
+            "relation": "是近端无线通信安全的一部分",
+            "source": "近端无线通信安全",
+            "target": "RFID",
+            "value": 3
+        },
+        {
+            "relation": "是近端无线通信安全的一部分",
+            "source": "近端无线通信安全",
+            "target": "PKE/RKE",
+            "value": 3
+        },
+        {
+            "relation": "是近端无线通信安全的一部分",
+            "source": "近端无线通信安全",
+            "target": "NFC",
+            "value": 3
+        },
+        {
+            "relation": "是近端无线通信安全的一部分",
+            "source": "近端无线通信安全",
+            "target": "TPMS",
+            "value": 3
+        },
+        {
+            "relation": "是近端通信安全的一部分",
+            "source": "近端通信安全",
+            "target": "物理接触设备安全",
+            "value": 3
+        },
+        {
+            "relation": "是物理接触设备安全的一部分",
+            "source": "物理接触设备安全",
+            "target": "USB",
+            "value": 3
+        },
+        {
+            "relation": "是物理接触设备安全的一部分",
+            "source": "物理接触设备安全",
+            "target": "OBD",
+            "value": 3
+        },
+        {
+            "relation": "是物理接触设备安全的一部分",
+            "source": "物理接触设备安全",
+            "target": "媒体播放器",
+            "value": 3
+        },
+        {
+            "relation": "是车外安全的一部分",
+            "source": "车外安全技术",
+            "target": "车云安全",
+            "value": 3
+        },
+        {
+            "relation": "是车云安全的一部分",
+            "source": "车云安全",
+            "target": "无线空口安全",
+            "value": 3
+        },
+        {
+            "relation": "是车云安全的一部分",
+            "source": "车云安全",
+            "target": "云安全",
+            "value": 3
+        },
+        {
+            "relation": "是云安全的一部分",
+            "source": "云安全",
+            "target": "云基础设施安全",
+            "value": 3
+        },
+        {
+            "relation": "是云安全的一部分",
+            "source": "云安全",
+            "target": "云安全服务",
+            "value": 3
+        },
+        {
+            "relation": "是车外安全的一部分",
+            "source": "车外安全技术",
+            "target": "V2X安全",
+            "value": 3
+        },
+        {
+            "relation": "是V2X安全的一部分",
+            "source": "V2X安全",
+            "target": "蜂窝通信接口",
+            "value": 3
+        },
+        {
+            "relation": "是蜂窝通信接口的一部分",
+            "source": "蜂窝通信接口",
+            "target": "网络接入安全",
+            "value": 3
+        },
+        {
+            "relation": "是蜂窝通信接口的一部分",
+            "source": "蜂窝通信接口",
+            "target": "车联业务接入安全",
+            "value": 3
+        },
+        {
+            "relation": "是蜂窝通信接口的一部分",
+            "source": "蜂窝通信接口",
+            "target": "网络域安全",
+            "value": 3
+        },
+        {
+            "relation": "是蜂窝通信接口的一部分",
+            "source": "蜂窝通信接口",
+            "target": "认证及密钥管理",
+            "value": 3
+        },
+        {
+            "relation": "是蜂窝通信接口的一部分",
+            "source": "蜂窝通信接口",
+            "target": "应用层安全",
+            "value": 3
+        },
+        {
+            "relation": "是V2X安全的一部分",
+            "source": "V2X安全",
+            "target": "直连通信接口",
+            "value": 3
+        },
+        {
+            "relation": "是直连通信接口的一部分",
+            "source": "直连通信接口",
+            "target": "网络层安全",
+            "value": 3
+        },
+        {
+            "relation": "是直连通信接口的一部分",
+            "source": "直连通信接口",
+            "target": "外部网络域安全",
+            "value": 3
+        },
+        {
+            "relation": "是直连通信接口的一部分",
+            "source": "直连通信接口",
+            "target": "安全能力支撑",
+            "value": 3
+        },
+        {
+            "relation": "是直连通信接口的一部分",
+            "source": "直连通信接口",
+            "target": "应用安全",
+            "value": 3
+        },
+        {
+            "relation": "是V2X安全的一部分",
+            "source": "V2X安全",
+            "target": "业务应用层",
+            "value": 3
+        },
+        {
+            "relation": "是业务应用层的一部分",
+            "source": "业务应用层",
+            "target": "基于云平台的LTE-V2X车联网应用",
+            "value": 3
+        },
+        {
+            "relation": "是业务应用层的一部分",
+            "source": "业务应用层",
+            "target": "直连通信场景下应用层的安全机制之PKI机制",
+            "value": 3
+        },
+        {
+            "relation": "是业务应用层的一部分",
+            "source": "业务应用层",
+            "target": "采用密码学等技术保障V2X通信安全",
+            "value": 3
+        },
+        {
+            "relation": "是V2X安全的一部分",
+            "source": "V2X安全",
+            "target": "物理层",
+            "value": 3
+        },
+        {
+            "relation": "是物理层的一部分",
+            "source": "物理层",
+            "target": "终端和路侧设备安全机制之接口层面安全机制",
+            "value": 3
+        },
+        {
+            "relation": "是物理层的一部分",
+            "source": "物理层",
+            "target": "终端和路侧设备安全机制之设备层面安全机制系统隔离机制",
+            "value": 3
+        },
+        {
+            "relation": "是数据安全与隐私保护的一部分",
+            "source": "数据安全与隐私保护",
+            "target": "隐私管理",
+            "value": 3
+        },
+        {
+            "relation": "是隐私管理的一部分",
+            "source": "隐私管理",
+            "target": "隐私声明保护",
+            "value": 3
+        },
+        {
+            "relation": "是隐私管理的一部分",
+            "source": "隐私管理",
+            "target": "隐私风险评估",
+            "value": 3
+        },
+        {
+            "relation": "是隐私管理的一部分",
+            "source": "隐私管理",
+            "target": "数据保护影响评估",
+            "value": 3
+        },
+        {
+            "relation": "包含",
+            "source": "数据安全与隐私保护",
+            "target": "隐私保护技术",
+            "value": 3
+        },
+        {
+            "relation": "是隐私保护技术的一部分",
+            "source": "隐私保护技术",
+            "target": "不可识别技术",
+            "value": 3
+        },
+        {
+            "relation": "是不可识别技术的一部分",
+            "source": "不可识别技术",
+            "target": "数据屏蔽",
+            "value": 3
+        },
+        {
+            "relation": "是不可识别技术的一部分",
+            "source": "不可识别技术",
+            "target": "等价类匿名",
+            "value": 3
+        },
+        {
+            "relation": "是不可识别技术的一部分",
+            "source": "不可识别技术",
+            "target": "差分隐私",
+            "value": 3
+        },
+        {
+            "relation": "是隐私保护技术的一部分",
+            "source": "隐私保护技术",
+            "target": "防跟踪",
+            "value": 3
+        },
+        {
+            "relation": "是隐私保护技术的一部分",
+            "source": "隐私保护技术",
+            "target": "数据发现",
+            "value": 3
+        },
+        {
+            "relation": "是隐私保护技术的一部分",
+            "source": "隐私保护技术",
+            "target": "隐私保护组件",
+            "value": 3
+        },
+        {
+            "relation": "是隐私保护技术的一部分",
+            "source": "隐私保护技术",
+            "target": "数据匹配",
+            "value": 3
+        },
+        {
+            "relation": "是隐私保护技术的一部分",
+            "source": "隐私保护技术",
+            "target": "身份管理",
+            "value": 3
+        },
+        {
+            "relation": "是身份管理的一部分",
+            "source": "身份管理",
+            "target": "支付隐私",
+            "value": 3
+        },
+        {
+            "relation": "是身份管理的一部分",
+            "source": "身份管理",
+            "target": "基于属性的凭证",
+            "value": 3
+        },
+        {
+            "relation": "是身份管理的一部分",
+            "source": "身份管理",
+            "target": "身份鉴别",
+            "value": 3
+        },
+        {
+            "relation": "是身份管理的一部分",
+            "source": "身份管理",
+            "target": "信息隐藏",
+            "value": 3
+        },
+        {
+            "relation": "是身份管理的一部分",
+            "source": "身份管理",
+            "target": "隐私信息检索",
+            "value": 3
+        },
+        {
+            "relation": "是身份管理的一部分",
+            "source": "身份管理",
+            "target": "网络流量分析",
+            "value": 3
+        },
+        {
+            "relation": "包含",
+            "source": "数据安全与隐私保护",
+            "target": "数据安全技术措施",
+            "value": 3
+        },
+        {
+            "relation": "是数据安全技术措施的一部分",
+            "source": "数据安全技术措施",
+            "target": "数据分类分级",
+            "value": 3
+        },
+        {
+            "relation": "是数据安全技术措施的一部分",
+            "source": "数据安全技术措施",
+            "target": "访问控制",
+            "value": 3
+        },
+        {
+            "relation": "是数据安全技术措施的一部分",
+            "source": "数据安全技术措施",
+            "target": "数据脱敏",
+            "value": 3
+        },
+        {
+            "relation": "是数据安全技术措施的一部分",
+            "source": "数据安全技术措施",
+            "target": "残余信息保护",
+            "value": 3
+        },
+        {
+            "relation": "是数据安全技术措施的一部分",
+            "source": "数据安全技术措施",
+            "target": "数据备份与恢复管理",
+            "value": 3
+        },
+        {
+            "relation": "是数据安全技术措施的一部分",
+            "source": "数据安全技术措施",
+            "target": "安全审计",
+            "value": 3
+        },
+        {
+            "relation": "是数据安全与隐私保护的一部分",
+            "source": "数据安全与隐私保护",
+            "target": "数据生命周期管理",
+            "value": 3
+        },
+        {
+            "relation": "是数据生命周期管理的一部分",
+            "source": "数据生命周期管理",
+            "target": "数据采集",
+            "value": 3
+        },
+        {
+            "relation": "是数据生命周期管理的一部分",
+            "source": "数据生命周期管理",
+            "target": "数据传输",
+            "value": 3
+        },
+        {
+            "relation": "是数据生命周期管理的一部分",
+            "source": "数据生命周期管理",
+            "target": "数据处理",
+            "value": 3
+        },
+        {
+            "relation": "是数据生命周期管理的一部分",
+            "source": "数据生命周期管理",
+            "target": "数据存储",
+            "value": 3
+        },
+        {
+            "relation": "是数据生命周期管理的一部分",
+            "source": "数据生命周期管理",
+            "target": "数据共享/交换/开放",
+            "value": 3
+        },
+        {
+            "relation": "是数据生命周期管理的一部分",
+            "source": "数据生命周期管理",
+            "target": "数据擦除、销毁",
             "value": 3
         }
     ]
