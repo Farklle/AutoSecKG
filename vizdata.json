@@ -117,6 +117,24 @@
         {
             "class": "安全技术",
             "group": "2",
+            "id": "802.1AE (MACsec)",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "802.1X (Port-Based Network Access Control)",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "DTLS (Datagram Transport Layer Security)",
+            "size": 8
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
             "id": "基于可信根的可信计算",
             "size": 8
         },
@@ -786,6 +804,24 @@
             "relation": "是车内安全通信的一部分",
             "source": "车内安全通信",
             "target": "MACsec",
+            "value": 3
+        },
+        {
+            "relation": "是车内安全通信的一部分",
+            "source": "802.1AE (MACsec)",
+            "target": "VLAN",
+            "value": 3
+        },
+        {
+            "relation": "是车内安全通信的一部分",
+            "source": "车内安全通信",
+            "target": "802.1X (Port-Based Network Access Control)",
+            "value": 3
+        },
+        {
+            "relation": "是车内安全通信的一部分",
+            "source": "车内安全通信",
+            "target": "DTLS (Datagram Transport Layer Security)",
             "value": 3
         },
         {
