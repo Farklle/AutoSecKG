@@ -808,8 +808,8 @@
         },
         {
             "relation": "是车内安全通信的一部分",
-            "source": "802.1AE (MACsec)",
-            "target": "VLAN",
+            "source": "车内安全通信",
+            "target": "802.1AE (MACsec)",
             "value": 3
         },
         {
