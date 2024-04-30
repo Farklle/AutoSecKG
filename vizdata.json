@@ -755,6 +755,1290 @@
             "group": "3",
             "id": "网络流量分析",
             "size": 5
+        },
+        {
+            "class": "安全管理",
+            "group": "0",
+            "id": "安全管理",
+            "size": 16
+        },
+        {
+            "class": "安全运营",
+            "group": "1",
+            "id": "安全运营",
+            "size": 10
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "安全监控",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "威胁检测",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "异常行为检测",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "告警管理",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "安全监控1",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "日志管理",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "操作安全",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "安全事件管理",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "事件分类分级",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "事件分析",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "事件响应",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "调查取证",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "威胁管理与情报",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "异常行为监控",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "情报收集",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "情报处理",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "情报分析",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "情报共享",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "威胁标识",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "漏洞管理",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "漏洞发现",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "漏洞评估",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "漏洞修复",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "漏洞验证",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "漏洞报告",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "软件更新",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "补丁管理",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "版本控制",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "更新部署",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "更新验证",
+            "size": 5
+        },
+        {
+            "class": "安全意识培训",
+            "group": "1",
+            "id": "安全意识培训",
+            "size": 10
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "培训计划开发",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "需求分析",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "目标制定",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "内容设计",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "资源准备",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "实施计划",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "组织安全期望宣贯",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "领导致辞",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "政策解读",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "案例分享",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "问题互动",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "承诺签署",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "安全意识培训2",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "网络安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "信息泄露",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "社会工程学",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "移动安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "物理安全",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "岗位安全技能培训",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "开发安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "运维安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "测试安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "项目管理",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "合规审计",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "与特定方的联系",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "供应商",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "合作伙伴",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "监管机构",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "行业组织",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "安全服务商",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "培训方式",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "线上培训",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "线下培训",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "混合培训",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "培训内容",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "安全政策",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "安全意识",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "安全技能",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "培训对象",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "新员工",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "普通员工",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "管理人员",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "培训评估",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "在线测试",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "现场考核",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "培训反馈",
+            "size": 5
+        },
+        {
+            "class": "安全治理",
+            "group": "1",
+            "id": "安全治理",
+            "size": 10
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "安全规划管理",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "目标设定",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "资源分配",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "风险评估",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "计划审批",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "监控与调整",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "安全团队建设",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "团队结构设计",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "招聘与选拔",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "培训与发展",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "团队激励",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "绩效评估",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "安全制度架构",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "基线",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "参考指南",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "过程(规程)",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "策略方针",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "安全绩效指标管理",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "指标定义",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据收集",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "性能分析",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "报告制作",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "持续改进",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "安全审计框架",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "审计计划",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "审计方法",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "审计执行",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "审计报告",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "审计跟进",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "安全合规与认证",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "法律法规要求",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "标准要求",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "流程认证",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "产品认证",
+            "size": 5
+        },
+        {
+            "class": "风险管理",
+            "group": "1",
+            "id": "风险管理",
+            "size": 10
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "风险管理框架",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "制定风险管理政策",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "建立风险管理组织架构",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "确定风险偏好和风险容忍度",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "制定风险管理流程",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "风险管理培训",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "风险识别",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "资产清查",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "威胁识别",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "漏洞识别",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "风险场景分析",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "风险登记簿",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "风险分析",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "定性风险分析",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "定量风险分析",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "风险等级划分",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "风险优先级排序",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "风险响应与处理",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "风险缓解",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "风险转移",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "风险规避",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "风险承受",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "应急响应",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "风险监控与纠正措施",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "持续风险评估",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "关键风险指标监控",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "风险报告",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "纠正措施实施",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "纠正措施有效性评估",
+            "size": 5
+        },
+        {
+            "class": "供应链安全",
+            "group": "1",
+            "id": "供应链安全",
+            "size": 10
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "供应商选择",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "商业信息评估",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "技术能力评估",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "现场审计",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "渗透测试",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "持续评估与审查",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "合同约束",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "明确双方职责",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "制定服务水平协议（SLA）",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "违约责任约定",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "安全合规要求",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "合同审查与更新",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "外包风险评估",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "识别外包业务和系统",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "风险分析与评估",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "风险缓解措施",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "风险监控",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "应急响应计划",
+            "size": 5
+        },
+        {
+            "class": "人力资源安全",
+            "group": "1",
+            "id": "人力资源安全",
+            "size": 10
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "安全审查",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "背景调查",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "面试和参考",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "入职前培训",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "定期审查",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "离职审查",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "雇佣条款和条件",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "保密协议",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "知识产权协议",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "竞业限制协议",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "薪酬和福利",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "工作时间和休假",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "纪律处理过程",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "违规行为定义",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "调查程序",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "纪律处分类型",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "申诉机制",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "记录保存",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "职责分离",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "职责分离原则",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "关键岗位分离",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "权限控制",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "职责轮换",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "监控和审计",
+            "size": 5
+        },
+        {
+            "class": "安全工程",
+            "group": "1",
+            "id": "安全工程",
+            "size": 10
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "安全概念",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "威胁分析及风险评估",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "安全目标设定",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "安全需求定义",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "安全设计",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统安全架构",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "软件设计",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件设计",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "安全开发",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件开发",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "软件编码",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "安全测试",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件安全测试",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "软件安全测试",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "安全集成测试",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "生产制造",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "密钥管理",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "入口关闭",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "诊断特性处理",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "退役服务",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "敏感信息处理",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "工具链",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "编译工具链",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "配置工具链",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "测试工具链",
+            "size": 5
         }
     ],
     "links": [
@@ -1495,6 +2779,1316 @@
             "source": "数据生命周期管理",
             "target": "数据擦除、销毁",
             "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全管理",
+            "target": "安全运营",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全运营",
+            "target": "安全监控",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全监控",
+            "target": "威胁检测",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全监控",
+            "target": "异常行为检测",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全监控",
+            "target": "告警管理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全监控",
+            "target": "安全监控1",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全监控",
+            "target": "日志管理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全监控",
+            "target": "操作安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全运营",
+            "target": "安全事件管理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全事件管理",
+            "target": "事件分类分级",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全事件管理",
+            "target": "事件分析",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全事件管理",
+            "target": "事件响应",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全事件管理",
+            "target": "调查取证",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全运营",
+            "target": "威胁管理与情报",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "威胁管理与情报",
+            "target": "异常行为监控",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "威胁管理与情报",
+            "target": "情报收集",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "威胁管理与情报",
+            "target": "情报处理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "威胁管理与情报",
+            "target": "情报分析",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "威胁管理与情报",
+            "target": "情报共享",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "威胁管理与情报",
+            "target": "威胁标识",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全运营",
+            "target": "漏洞管理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "漏洞管理",
+            "target": "漏洞发现",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "漏洞管理",
+            "target": "漏洞评估",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "漏洞管理",
+            "target": "漏洞修复",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "漏洞管理",
+            "target": "漏洞验证",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "漏洞管理",
+            "target": "漏洞报告",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全运营",
+            "target": "软件更新",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件更新",
+            "target": "补丁管理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件更新",
+            "target": "版本控制",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件更新",
+            "target": "更新部署",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件更新",
+            "target": "更新验证",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全意识培训",
+            "target": "培训计划开发",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训计划开发",
+            "target": "需求分析",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训计划开发",
+            "target": "目标制定",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训计划开发",
+            "target": "内容设计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训计划开发",
+            "target": "资源准备",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训计划开发",
+            "target": "实施计划",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训计划开发",
+            "target": "需求分析",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训计划开发",
+            "target": "目标制定",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训计划开发",
+            "target": "内容设计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训计划开发",
+            "target": "资源准备",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训计划开发",
+            "target": "实施计划",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全意识培训",
+            "target": "组织安全期望宣贯",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "组织安全期望宣贯",
+            "target": "领导致辞",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "组织安全期望宣贯",
+            "target": "政策解读",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "组织安全期望宣贯",
+            "target": "案例分享",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "组织安全期望宣贯",
+            "target": "问题互动",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "组织安全期望宣贯",
+            "target": "承诺签署",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全意识培训",
+            "target": "安全意识培训2",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全意识培训2",
+            "target": "网络安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全意识培训2",
+            "target": "信息泄露",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全意识培训2",
+            "target": "社会工程学",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全意识培训2",
+            "target": "移动安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全意识培训2",
+            "target": "物理安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全意识培训",
+            "target": "岗位安全技能培训",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "岗位安全技能培训",
+            "target": "开发安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "岗位安全技能培训",
+            "target": "运维安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "岗位安全技能培训",
+            "target": "测试安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "岗位安全技能培训",
+            "target": "项目管理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "岗位安全技能培训",
+            "target": "合规审计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全意识培训",
+            "target": "与特定方的联系",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "与特定方的联系",
+            "target": "供应商",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "与特定方的联系",
+            "target": "合作伙伴",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "与特定方的联系",
+            "target": "监管机构",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "与特定方的联系",
+            "target": "行业组织",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "与特定方的联系",
+            "target": "安全服务商",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全意识培训",
+            "target": "培训方式",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训方式",
+            "target": "线上培训",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训方式",
+            "target": "线下培训",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训方式",
+            "target": "混合培训",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全意识培训",
+            "target": "培训内容",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训内容",
+            "target": "安全政策",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训内容",
+            "target": "安全意识",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训内容",
+            "target": "安全技能",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全意识培训",
+            "target": "培训对象",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训对象",
+            "target": "新员工",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训对象",
+            "target": "普通员工",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训对象",
+            "target": "管理人员",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全意识培训",
+            "target": "培训评估",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训评估",
+            "target": "在线测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训评估",
+            "target": "现场考核",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "培训评估",
+            "target": "培训反馈",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全管理",
+            "target": "安全治理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全治理",
+            "target": "安全规划管理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全规划管理",
+            "target": "目标设定",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全规划管理",
+            "target": "资源分配",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全规划管理",
+            "target": "风险评估",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全规划管理",
+            "target": "计划审批",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全规划管理",
+            "target": "监控与调整",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全治理",
+            "target": "安全团队建设",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全团队建设",
+            "target": "团队结构设计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全团队建设",
+            "target": "招聘与选拔",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全团队建设",
+            "target": "培训与发展",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全团队建设",
+            "target": "团队激励",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全团队建设",
+            "target": "绩效评估",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全治理",
+            "target": "安全制度架构",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全制度架构",
+            "target": "策略方针",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全制度架构",
+            "target": "基线",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全制度架构",
+            "target": "参考指南",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全制度架构",
+            "target": "过程(规程)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全治理",
+            "target": "安全绩效指标管理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全绩效指标管理",
+            "target": "指标定义",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全绩效指标管理",
+            "target": "数据收集",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全绩效指标管理",
+            "target": "性能分析",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全绩效指标管理",
+            "target": "报告制作",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全绩效指标管理",
+            "target": "持续改进",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全治理",
+            "target": "安全审计框架",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全审计框架",
+            "target": "审计计划",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全审计框架",
+            "target": "审计方法",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全审计框架",
+            "target": "审计执行",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全审计框架",
+            "target": "审计报告",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全审计框架",
+            "target": "审计跟进",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全治理",
+            "target": "安全合规与认证",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全合规与认证",
+            "target": "法律法规要求",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全合规与认证",
+            "target": "标准要求",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全合规与认证",
+            "target": "流程认证",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全合规与认证",
+            "target": "产品认证",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全管理",
+            "target": "风险管理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险管理",
+            "target": "风险管理框架",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险管理框架",
+            "target": "制定风险管理政策",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险管理框架",
+            "target": "建立风险管理组织架构",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险管理框架",
+            "target": "确定风险偏好和风险容忍度",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险管理框架",
+            "target": "制定风险管理流程",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险管理框架",
+            "target": "风险管理培训",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险管理",
+            "target": "风险识别",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险识别",
+            "target": "资产清查",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险识别",
+            "target": "威胁识别",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险识别",
+            "target": "漏洞识别",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险识别",
+            "target": "风险场景分析",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险识别",
+            "target": "风险登记簿",
+            "value": 3
+        },
+        
+        {
+            "relation": "属于",
+            "source": "风险管理",
+            "target": "风险分析",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险分析",
+            "target": "定性风险分析",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险分析",
+            "target": "定量风险分析",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险分析",
+            "target": "风险等级划分",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险分析",
+            "target": "风险优先级排序",
+            "value": 3
+        },
+        
+        {
+            "relation": "属于",
+            "source": "风险管理",
+            "target": "风险响应与处理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险响应与处理",
+            "target": "风险缓解",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险响应与处理",
+            "target": "风险转移",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险响应与处理",
+            "target": "风险规避",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险响应与处理",
+            "target": "风险承受",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险响应与处理",
+            "target": "应急响应",
+            "value": 3
+        },
+        
+        {
+            "relation": "属于",
+            "source": "风险管理",
+            "target": "风险监控与纠正措施",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险监控与纠正措施",
+            "target": "持续风险评估",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险监控与纠正措施",
+            "target": "关键风险指标监控",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险监控与纠正措施",
+            "target": "风险报告",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险监控与纠正措施",
+            "target": "纠正措施实施",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "风险监控与纠正措施",
+            "target": "纠正措施有效性评估",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全管理",
+            "target": "供应链安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "供应链安全",
+            "target": "供应商选择",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "供应商选择",
+            "target": "商业信息评估",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "供应商选择",
+            "target": "技术能力评估",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "供应商选择",
+            "target": "现场审计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "供应商选择",
+            "target": "渗透测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "供应商选择",
+            "target": "持续评估与审查",
+            "value": 3
+        },
+        
+        {
+            "relation": "属于",
+            "source": "供应链安全",
+            "target": "合同约束",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "合同约束",
+            "target": "明确双方职责",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "合同约束",
+            "target": "制定服务水平协议（SLA）",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "合同约束",
+            "target": "违约责任约定",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "合同约束",
+            "target": "安全合规要求",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "合同约束",
+            "target": "合同审查与更新",
+            "value": 3
+        },
+        
+        {
+            "relation": "属于",
+            "source": "供应链安全",
+            "target": "外包风险评估",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "外包风险评估",
+            "target": "识别外包业务和系统",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "外包风险评估",
+            "target": "风险分析与评估",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "外包风险评估",
+            "target": "风险缓解措施",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "外包风险评估",
+            "target": "风险监控",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "外包风险评估",
+            "target": "应急响应计划",
+            "value": 3
+        },
+        
+        {
+            "relation": "属于",
+            "source": "安全管理",
+            "target": "人力资源安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "人力资源安全",
+            "target": "安全审查",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全审查",
+            "target": "背景调查",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全审查",
+            "target": "面试和参考",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全审查",
+            "target": "入职前培训",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全审查",
+            "target": "定期审查",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全审查",
+            "target": "离职审查",
+            "value": 3
+        },
+        
+        {
+            "relation": "属于",
+            "source": "人力资源安全",
+            "target": "雇佣条款和条件",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "雇佣条款和条件",
+            "target": "保密协议",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "雇佣条款和条件",
+            "target": "知识产权协议",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "雇佣条款和条件",
+            "target": "竞业限制协议",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "雇佣条款和条件",
+            "target": "薪酬和福利",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "雇佣条款和条件",
+            "target": "工作时间和休假",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "人力资源安全",
+            "target": "纪律处理过程",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "纪律处理过程",
+            "target": "违规行为定义",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "纪律处理过程",
+            "target": "调查程序",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "纪律处理过程",
+            "target": "纪律处分类型",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "纪律处理过程",
+            "target": "申诉机制",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "纪律处理过程",
+            "target": "记录保存",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "人力资源安全",
+            "target": "职责分离",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "职责分离",
+            "target": "职责分离原则",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "职责分离",
+            "target": "关键岗位分离",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "职责分离",
+            "target": "权限控制",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "职责分离",
+            "target": "职责轮换",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "职责分离",
+            "target": "监控和审计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全管理",
+            "target": "安全工程",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全工程",
+            "target": "安全概念",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全概念",
+            "target": "威胁分析及风险评估",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全概念",
+            "target": "安全目标设定",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全概念",
+            "target": "安全需求定义",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全工程",
+            "target": "安全设计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全设计",
+            "target": "系统安全架构",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全设计",
+            "target": "软件设计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全设计",
+            "target": "硬件设计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全工程",
+            "target": "安全开发",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全开发",
+            "target": "硬件开发",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全开发",
+            "target": "软件编码",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全工程",
+            "target": "安全测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全测试",
+            "target": "硬件安全测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全测试",
+            "target": "软件安全测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全测试",
+            "target": "安全集成测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全工程",
+            "target": "生产制造",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "生产制造",
+            "target": "密钥管理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "生产制造",
+            "target": "入口关闭",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "生产制造",
+            "target": "诊断特性处理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全工程",
+            "target": "退役服务",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "退役服务",
+            "target": "敏感信息处理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "安全工程",
+            "target": "工具链",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "工具链",
+            "target": "编译工具链",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "工具链",
+            "target": "配置工具链",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "工具链",
+            "target": "测试工具链",
+            "value": 3
         }
+        
     ]
 }
