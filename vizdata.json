@@ -2039,7 +2039,1185 @@
             "group": "3",
             "id": "测试工具链",
             "size": 5
+        },
+        {
+            "class": "自动驾驶安全",
+            "group": "1",
+            "id": "自动驾驶安全",
+            "size": 10
+        },
+        {
+            "class": "传感器安全",
+            "group": "1",
+            "id": "传感器安全",
+            "size": 10
+        },
+        {
+            "class": "数据保护措施",
+            "group": "1",
+            "id": "通用数据保护措施",
+            "size": 10
+        },
+        {
+            "class": "决策系统安全",
+            "group": "1",
+            "id": "决策系统安全",
+            "size": 10
+        },
+        {
+            "class": "控制系统安全",
+            "group": "1",
+            "id": "控制系统安全",
+            "size": 10
+        },
+        {
+            "class": "软件安全",
+            "group": "1",
+            "id": "自动驾驶软件安全",
+            "size": 10
+        },
+        {
+            "class": "硬件安全",
+            "group": "1",
+            "id": "自动驾驶硬件安全",
+            "size": 10
+        },
+        {
+            "class": "系统集成安全",
+            "group": "1",
+            "id": "自动驾驶系统集成安全",
+            "size": 10
+        },
+        {
+            "class": "运营安全",
+            "group": "1",
+            "id": "运营安全",
+            "size": 10
+        },
+        {
+            "class": "法规合规",
+            "group": "1",
+            "id": "自动驾驶法规合规",
+            "size": 10
+        },
+        
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "通用传感器防护措施",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "防尘防水设计",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "防冲击设计",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "防眩光设计",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "防雾霾设计",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "防虫鸟设计",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "摄像头安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "图像数据加密",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "图像数据完整性",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "图像数据隐私保护",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "雷达安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "雷达数据加密",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "雷达数据完整性",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "雷达数据隐私保护",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "激光雷达安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "点云数据加密",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "点云数据完整性",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "点云数据隐私保护",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "其他传感器安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "超声波雷达安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "毫米波雷达安全",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "数据加密",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "加密算法",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "加密性能优化",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "端到端加密",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据完整性校验",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "数据完整性",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据哈希校验",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据水印技术",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据篡改检测",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据恢复技术",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据防伪技术",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "数据隐私保护",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据脱敏技术",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据匿名化",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据隔离",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据访问控制",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据生命周期管理",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "通用算法安全措施",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "算法鲁棒性",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "算法有效性验证",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "算法实时性",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "算法可解释性",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "算法隐私保护",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "数据和模型安全措施",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据加密",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据完整性",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据隐私保护",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据更新安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "数据版本控制",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "系统级安全管理",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统架构安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统开发安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统测试安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统部署安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统维护安全",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "路径规划安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "地图数据安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "交通规则建模",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "交通规则解析",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "交通规则冲突处理",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "交通规则测试",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "行为决策安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "场景识别安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "目标检测与跟踪安全",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "运动规划安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "车辆动力学模型安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "环境建模安全",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "通用控制系统安全措施",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统响应时间",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "故障检测",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "防护措施",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统冗余",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "纵向控制安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "加速曲线平顺性",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "加速极限保护",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "制动距离控制",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "制动力分配",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "换挡平顺性",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "换挡防护",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "横向控制安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "转向精度",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "横摆稳定性",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "侧倾稳定性",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "防滚动控制",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "防追尾控制",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "底盘控制安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "减振性能",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "耐久性",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "防抱死性能",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "防滑性能",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "软件架构安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "架构模型安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "架构评审",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "架构漏洞分析",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "架构安全测试",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "架构安全加固",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "软件开发与测试安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "安全编码规范",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "静态与动态代码分析",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "软件漏洞修复",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "功能安全测试",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "安全评估",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "测试自动化",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "软件部署与维护安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "软件供应链安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "软件部署与更新安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "软件监控与备份安全",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "软件部署与维护安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "软件供应链安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "软件部署与更新安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "软件监控与备份安全",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "硬件架构与设计安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件架构评审",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件攻击面分析",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件安全扩展",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "驾驶硬件安全测试",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件安全加固",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "安全芯片设计",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "安全模块设计",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件加密模块",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件防护设计",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件冗余设计",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "硬件测试与制造安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件功能测试",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件故障注入测试",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件侧信道分析",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件渗透测试",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件模糊测试",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件供应链安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件生产安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件防伪技术",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件存储安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "硬件运输安全",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "系统集成测试与验证",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "集成功能测试",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "集成压力测试",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "集成故障注入测试",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "集成渗透测试",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "集成模糊测试",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "功能安全验证",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "性能安全验证",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "可靠性验证",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "安全认证测试",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "合规性评估",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "系统更新与安全管理",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统更新机制",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统更新安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统备份与恢复",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统监控与审计",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统故障诊断",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统安全策略",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统访问控制",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统密钥管理",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统日志审计",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "系统安全响应",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "远程监控安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "车辆状态监控安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "驾驶行为监控安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "安全事件监控安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "监控数据安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "监控系统安全",
+            "size": 5
+        },
+        {
+            "class": "安全技术",
+            "group": "2",
+            "id": "远程操控安全",
+            "size": 8
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "远程接管控制安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "远程故障诊断安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "远程软件更新安全",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "远程操作鉴权",
+            "size": 5
+        },
+        {
+            "class": "具体技术",
+            "group": "3",
+            "id": "远程操作审计",
+            "size": 5
+        },
+        {
+            "class": "法律和标准",
+            "group": "2",
+            "id": "自动驾驶法规",
+            "size": 8
+        },
+        {
+            "class": "法规内容",
+            "group": "3",
+            "id": "国内自动驾驶法规",
+            "size": 5
+        },
+        {
+            "class": "法规内容",
+            "group": "3",
+            "id": "国外自动驾驶法规",
+            "size": 5
+        },
+        {
+            "class": "法规内容",
+            "group": "3",
+            "id": "自动驾驶行业标准",
+            "size": 5
+        },
+        {
+            "class": "法规内容",
+            "group": "3",
+            "id": "自动驾驶伦理规范",
+            "size": 5
+        },
+        {
+            "class": "法规内容",
+            "group": "3",
+            "id": "自动驾驶法规解读",
+            "size": 5
+        },
+        {
+            "class": "测试和认证",
+            "group": "2",
+            "id": "自动驾驶测试认证",
+            "size": 8
+        },
+        {
+            "class": "测试规范",
+            "group": "3",
+            "id": "场景测试规范",
+            "size": 5
+        },
+        {
+            "class": "测试规范",
+            "group": "3",
+            "id": "闭环测试规范",
+            "size": 5
+        },
+        {
+            "class": "测试规范",
+            "group": "3",
+            "id": "真实道路测试规范",
+            "size": 5
+        },
+        {
+            "class": "测试管理",
+            "group": "3",
+            "id": "测试数据管理",
+            "size": 5
+        },
+        {
+            "class": "测试管理",
+            "group": "3",
+            "id": "测试报告审核",
+            "size": 5
+        },
+        {
+            "class": "责任和认定",
+            "group": "2",
+            "id": "自动驾驶责任认定",
+            "size": 8
+        },
+        {
+            "class": "责任认定",
+            "group": "3",
+            "id": "事故责任认定原则",
+            "size": 5
+        },
+        {
+            "class": "责任认定",
+            "group": "3",
+            "id": "事故责任认定程序",
+            "size": 5
+        },
+        {
+            "class": "责任认定",
+            "group": "3",
+            "id": "事故责任认定方法",
+            "size": 5
+        },
+        {
+            "class": "保险和赔偿",
+            "group": "3",
+            "id": "责任保险条款",
+            "size": 5
+        },
+        {
+            "class": "保险和赔偿",
+            "group": "3",
+            "id": "责任赔偿机制",
+            "size": 5
         }
+    
     ],
     "links": [
         {
@@ -4087,6 +5265,1171 @@
             "relation": "属于",
             "source": "工具链",
             "target": "测试工具链",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶安全",
+            "target": "传感器安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶安全",
+            "target": "通用数据保护措施",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶安全",
+            "target": "决策系统安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶安全",
+            "target": "控制系统安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶安全",
+            "target": "自动驾驶软件安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶安全",
+            "target": "自动驾驶硬件安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶安全",
+            "target": "自动驾驶系统集成安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶安全",
+            "target": "运营安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶安全",
+            "target": "自动驾驶法规合规",
+            "value": 3
+        },
+        
+        {
+            "relation": "属于",
+            "source": "传感器安全",
+            "target": "通用传感器防护措施",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "传感器安全",
+            "target": "摄像头安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "传感器安全",
+            "target": "雷达安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "传感器安全",
+            "target": "激光雷达安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "传感器安全",
+            "target": "其他传感器安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "通用数据保护措施",
+            "target": "数据加密",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "通用数据保护措施",
+            "target": "数据完整性",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "通用数据保护措施",
+            "target": "数据隐私保护",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "决策系统安全",
+            "target": "通用算法安全措施",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "决策系统安全",
+            "target": "数据和模型安全措施",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "决策系统安全",
+            "target": "系统级安全管理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "决策系统安全",
+            "target": "路径规划安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "决策系统安全",
+            "target": "行为决策安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "决策系统安全",
+            "target": "运动规划安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "控制系统安全",
+            "target": "通用控制系统安全措施",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "控制系统安全",
+            "target": "纵向控制安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "控制系统安全",
+            "target": "横向控制安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "控制系统安全",
+            "target": "底盘控制安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶软件安全",
+            "target": "软件架构安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶软件安全",
+            "target": "软件开发与测试安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶软件安全",
+            "target": "软件部署与维护安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶硬件安全",
+            "target": "硬件架构与设计安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶硬件安全",
+            "target": "硬件测试与制造安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶系统集成安全",
+            "target": "系统集成测试与验证",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶系统集成安全",
+            "target": "系统更新与安全管理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "运营安全",
+            "target": "远程监控安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "运营安全",
+            "target": "远程操控安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶法规合规",
+            "target": "自动驾驶法规",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶法规合规",
+            "target": "自动驾驶测试认证",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶法规合规",
+            "target": "自动驾驶责任认定",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "通用传感器防护措施",
+            "target": "防尘防水设计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "通用传感器防护措施",
+            "target": "防冲击设计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "通用传感器防护措施",
+            "target": "防眩光设计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "通用传感器防护措施",
+            "target": "防雾霾设计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "通用传感器防护措施",
+            "target": "防虫鸟设计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "摄像头安全",
+            "target": "图像数据加密",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "摄像头安全",
+            "target": "图像数据完整性",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "摄像头安全",
+            "target": "图像数据隐私保护",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "雷达安全",
+            "target": "雷达数据加密",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "雷达安全",
+            "target": "雷达数据完整性",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "雷达安全",
+            "target": "雷达数据隐私保护",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "激光雷达安全",
+            "target": "点云数据加密",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "激光雷达安全",
+            "target": "点云数据完整性",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "激光雷达安全",
+            "target": "点云数据隐私保护",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "其他传感器安全",
+            "target": "超声波雷达安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "其他传感器安全",
+            "target": "毫米波雷达安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据加密",
+            "target": "加密算法",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据加密",
+            "target": "加密性能优化",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据加密",
+            "target": "端到端加密",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据加密",
+            "target": "数据完整性校验",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据完整性",
+            "target": "数据哈希校验",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据完整性",
+            "target": "数据水印技术",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据完整性",
+            "target": "数据篡改检测",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据完整性",
+            "target": "数据恢复技术",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据完整性",
+            "target": "数据防伪技术",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据隐私保护",
+            "target": "数据脱敏技术",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据隐私保护",
+            "target": "数据匿名化",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据隐私保护",
+            "target": "数据隔离",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据隐私保护",
+            "target": "数据访问控制",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据隐私保护",
+            "target": "数据生命周期管理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "通用算法安全措施",
+            "target": "算法鲁棒性",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "通用算法安全措施",
+            "target": "算法有效性验证",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "通用算法安全措施",
+            "target": "算法实时性",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "通用算法安全措施",
+            "target": "算法可解释性",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "通用算法安全措施",
+            "target": "算法隐私保护",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据和模型安全措施",
+            "target": "数据加密",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据和模型安全措施",
+            "target": "数据完整性",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据和模型安全措施",
+            "target": "数据隐私保护",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据和模型安全措施",
+            "target": "数据更新安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "数据和模型安全措施",
+            "target": "数据版本控制",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统级安全管理",
+            "target": "系统架构安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统级安全管理",
+            "target": "系统开发安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统级安全管理",
+            "target": "系统测试安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统级安全管理",
+            "target": "系统部署安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统级安全管理",
+            "target": "系统维护安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "路径规划安全",
+            "target": "地图数据安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "路径规划安全",
+            "target": "交通规则建模",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "路径规划安全",
+            "target": "交通规则解析",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "路径规划安全",
+            "target": "交通规则冲突处理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "路径规划安全",
+            "target": "交通规则测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "行为决策安全",
+            "target": "场景识别安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "行为决策安全",
+            "target": "目标检测与跟踪安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "运动规划安全",
+            "target": "车辆动力学模型安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "运动规划安全",
+            "target": "环境建模安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "通用控制系统安全措施",
+            "target": "系统响应时间",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "通用控制系统安全措施",
+            "target": "故障检测",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "通用控制系统安全措施",
+            "target": "防护措施",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "通用控制系统安全措施",
+            "target": "系统冗余",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "纵向控制安全",
+            "target": "加速曲线平顺性",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "纵向控制安全",
+            "target": "加速极限保护",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "纵向控制安全",
+            "target": "制动距离控制",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "纵向控制安全",
+            "target": "制动力分配",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "纵向控制安全",
+            "target": "换挡平顺性",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "纵向控制安全",
+            "target": "换挡防护",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "横向控制安全",
+            "target": "转向精度",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "横向控制安全",
+            "target": "横摆稳定性",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "横向控制安全",
+            "target": "侧倾稳定性",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "横向控制安全",
+            "target": "防滚动控制",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "横向控制安全",
+            "target": "防追尾控制",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "底盘控制安全",
+            "target": "减振性能",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "底盘控制安全",
+            "target": "耐久性",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "底盘控制安全",
+            "target": "防抱死性能",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "底盘控制安全",
+            "target": "防滑性能",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件架构安全",
+            "target": "架构模型安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件架构安全",
+            "target": "架构评审",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件架构安全",
+            "target": "架构漏洞分析",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件架构安全",
+            "target": "架构安全测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件架构安全",
+            "target": "架构安全加固",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件开发与测试安全",
+            "target": "安全编码规范",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件开发与测试安全",
+            "target": "静态与动态代码分析",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件开发与测试安全",
+            "target": "软件漏洞修复",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件开发与测试安全",
+            "target": "功能安全测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件开发与测试安全",
+            "target": "安全评估",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件开发与测试安全",
+            "target": "测试自动化",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件部署与维护安全",
+            "target": "软件供应链安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件部署与维护安全",
+            "target": "软件部署与更新安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件部署与维护安全",
+            "target": "软件监控与备份安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件部署与维护安全",
+            "target": "软件供应链安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件部署与维护安全",
+            "target": "软件部署与更新安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "软件部署与维护安全",
+            "target": "软件监控与备份安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件架构与设计安全",
+            "target": "硬件架构评审",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件架构与设计安全",
+            "target": "硬件攻击面分析",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件架构与设计安全",
+            "target": "硬件安全扩展",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件架构与设计安全",
+            "target": "驾驶硬件安全测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件架构与设计安全",
+            "target": "硬件安全加固",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件架构与设计安全",
+            "target": "安全芯片设计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件架构与设计安全",
+            "target": "安全模块设计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件架构与设计安全",
+            "target": "硬件加密模块",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件架构与设计安全",
+            "target": "硬件防护设计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件架构与设计安全",
+            "target": "硬件冗余设计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件测试与制造安全",
+            "target": "硬件功能测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件测试与制造安全",
+            "target": "硬件故障注入测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件测试与制造安全",
+            "target": "硬件侧信道分析",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件测试与制造安全",
+            "target": "硬件渗透测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件测试与制造安全",
+            "target": "硬件模糊测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件测试与制造安全",
+            "target": "硬件供应链安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件测试与制造安全",
+            "target": "硬件生产安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件测试与制造安全",
+            "target": "硬件防伪技术",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件测试与制造安全",
+            "target": "硬件存储安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "硬件测试与制造安全",
+            "target": "硬件运输安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统集成测试与验证",
+            "target": "集成功能测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统集成测试与验证",
+            "target": "集成压力测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统集成测试与验证",
+            "target": "集成故障注入测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统集成测试与验证",
+            "target": "集成渗透测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统集成测试与验证",
+            "target": "集成模糊测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统集成测试与验证",
+            "target": "功能安全验证",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统集成测试与验证",
+            "target": "性能安全验证",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统集成测试与验证",
+            "target": "可靠性验证",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统集成测试与验证",
+            "target": "安全认证测试",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统集成测试与验证",
+            "target": "合规性评估",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统更新与安全管理",
+            "target": "系统更新机制",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统更新与安全管理",
+            "target": "系统更新安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统更新与安全管理",
+            "target": "系统备份与恢复",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统更新与安全管理",
+            "target": "系统监控与审计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统更新与安全管理",
+            "target": "系统故障诊断",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统更新与安全管理",
+            "target": "系统安全策略",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统更新与安全管理",
+            "target": "系统访问控制",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统更新与安全管理",
+            "target": "系统密钥管理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统更新与安全管理",
+            "target": "系统日志审计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "系统更新与安全管理",
+            "target": "系统安全响应",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "远程监控安全",
+            "target": "车辆状态监控安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "远程监控安全",
+            "target": "驾驶行为监控安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "远程监控安全",
+            "target": "安全事件监控安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "远程监控安全",
+            "target": "监控数据安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "远程监控安全",
+            "target": "监控系统安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "远程操控安全",
+            "target": "远程接管控制安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "远程操控安全",
+            "target": "远程故障诊断安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "远程操控安全",
+            "target": "远程软件更新安全",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "远程操控安全",
+            "target": "远程操作鉴权",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "远程操控安全",
+            "target": "远程操作审计",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶法规",
+            "target": "国内自动驾驶法规",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶法规",
+            "target": "国外自动驾驶法规",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶法规",
+            "target": "自动驾驶行业标准",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶法规",
+            "target": "自动驾驶伦理规范",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶法规",
+            "target": "自动驾驶法规解读",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶测试认证",
+            "target": "场景测试规范",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶测试认证",
+            "target": "闭环测试规范",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶测试认证",
+            "target": "真实道路测试规范",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶测试认证",
+            "target": "测试数据管理",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶测试认证",
+            "target": "测试报告审核",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶责任认定",
+            "target": "事故责任认定原则",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶责任认定",
+            "target": "事故责任认定程序",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶责任认定",
+            "target": "事故责任认定方法",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶责任认定",
+            "target": "责任保险条款",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "自动驾驶责任认定",
+            "target": "责任赔偿机制",
             "value": 3
         }
         
